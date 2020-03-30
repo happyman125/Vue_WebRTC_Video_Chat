@@ -6,10 +6,10 @@ First of all, you need to install and run the redis in your PC. Here there is an
 
 ```bash
 # Clone the repo
-git clone https://github.com/adrigardi90/video-chat
+git clone https://github.com/happyman125/Vue_WebRTC_Video_Chat
 
 # Change into the repo directory
-cd video-chat
+cd Vue_WebRTC_Video_Chat
 
 # install
 npm install 
